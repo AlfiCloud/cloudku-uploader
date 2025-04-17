@@ -86,12 +86,12 @@ Violators will be prosecuted under Indonesian and international copyright law.
 
 ## 🙋 Support & Contact
 Got questions or feedback? Reach out:
-🌐 Website: [Cloudkuimages](https://cloudkuimages.com)
-💬 WhatsApp: [channels](https://cloudkuimages.com/ch)
+🌐 Website: [Cloudkuimages](https://cloudkuimages.guru)
+💬 WhatsApp: [channels](https://cloudkuimages.guru/ch)
 🎲Github: [GitHub](https://github.com/AlfiCloud)
 
 ---
 
 ## 👨‍💻 Author
 
-- **AlfiDev** - [GitHub](https://github.com/AlfiCloud) | [Website](https://cloudkuimages.com)
+- **AlfiDev** - [GitHub](https://github.com/AlfiCloud) | [Website](https://cloudkuimages.guru)
